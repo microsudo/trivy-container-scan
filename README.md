@@ -1,1 +1,2 @@
 # trivy-container-scan
+- scan
